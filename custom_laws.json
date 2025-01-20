@@ -1,0 +1,8 @@
+[
+    {
+        "name": "HillNegative",
+        "expression": "parameter1 / (reactant1**2 + parameter2)",
+        "optional_symbols": [],
+        "power_limited_species": ["reactant1"]
+    }
+]
